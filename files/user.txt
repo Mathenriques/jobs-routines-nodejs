@@ -1,0 +1,4 @@
+NOME|EMAIL|IDADE
+Matheus Henriques|mathenriques@email.com|22
+Pedro|pedro@email.com|44
+João|joao@email.com|18
